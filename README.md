@@ -67,33 +67,7 @@ Ultrasonic flow meters based on the transit-time method are widely used in indus
 
 The proposed method follows this structural framework:
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│              Flow Field State Classification               │
-│              Re = ρvD/μ (Equation 1)                      │
-└─────────────────┬───────────────────────────────────────────┘
-                  │
-        ┌─────────┴─────────┬─────────────┐
-        ▼                   ▼             ▼
-   Re < 2000          2000<Re<4000    Re > 4000
-   (Laminar)         (Transitional)   (Turbulent)
-        │                   │             │
-        ▼                   ▼             ▼
-   k_c = 1.8471       Linear        k_t = 1.4368
-   (Calibrated)     Interpolation    (Calibrated)
-        │                   │             │
-        └─────────┬─────────┴─────────────┘
-                  ▼
-    ┌────────────────────────────────────┐
-    │   Integral Time-Difference Method   │
-    │   (Equations 11-18)                │
-    └─────────────────┬──────────────────┘
-                      ▼
-    ┌────────────────────────────────────┐
-    │      Flow Velocity & Rate Q        │
-    │      Q = 3600·π·R²·v (Eq. 20)     │
-    └────────────────────────────────────┘
-```
+![Methodology Flowchart](Methodology%20Flowchart.png)
 
 ### 2.3 Contribution Summary
 
