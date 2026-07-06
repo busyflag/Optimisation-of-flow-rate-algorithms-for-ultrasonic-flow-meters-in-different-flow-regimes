@@ -2,7 +2,7 @@
 
 ---
 
-## Publication Information
+## 📄 Publication Information
 
 | Item | Details |
 |------|---------|
@@ -17,7 +17,23 @@
 
 ---
 
-## Table of Contents
+## 🙏 Special Acknowledgments
+
+I extend my heartfelt gratitude to **Professor Du Guangsheng** and his research team at **Shandong University** .
+
+- **Prompt and thoughtful responses** to our data inquiry emails
+- **Generous sharing of PIV data** that was critical to this research
+- **Willingness to help young researchers** despite the passage of time
+
+### Personal Reflections
+
+Professor Du Guangsheng's willingness to recall experimental data from his doctoral dissertation years ago and generously share it with a young student like me is truly touching and admirable. This act of mentorship exemplifies the best traditions of academic collaboration and has been instrumental in the successful publication of this paper.
+
+Such generosity from senior scholars not only advances scientific knowledge but also inspires the next generation of researchers to pay it forward when they themselves become established academics.
+
+---
+
+## 📋 Table of Contents
 
 1. [Abstract](#1-abstract)
 2. [Introduction](#2-introduction)
@@ -545,15 +561,6 @@ The paper presents several key figures:
 
 ---
 
-## Author Information
-
-### Yue Wang (王玥)
-- **Role**: Undergraduate Student
-- **Institution**: Yangzhou University
-- **Email**: 2574414382@qq.com
-
----
-
 ## Citation
 
 ```bibtex
@@ -568,6 +575,15 @@ The paper presents several key figures:
   doi={10.13382/j.jemi.B2508365}
 }
 ```
+
+---
+
+## 📧 Contact
+
+- **Author**: Yue Wang（王玥）
+- **Email**: 2574414382@qq.com/233302124@stu.yzu.edu.cn
+- **Institution**: College of Electrical, Energy and Power Engineering, Yangzhou University
+- **Address**: Yangzhou 225000, China
 
 ---
 
