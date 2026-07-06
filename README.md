@@ -19,7 +19,7 @@
 
 ## 🙏 Special Acknowledgments
 
-I extend my heartfelt gratitude to **Professor Guangsheng Du** and his research team at **Shandong University** .
+I extend my heartfelt gratitude to **Professor Guangsheng Du（杜广生）** and his research team at **Shandong University** .
 
 - **Prompt and thoughtful responses** to my data inquiry emails
 - **Generous sharing of PIV data** that was critical to this research
