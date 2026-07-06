@@ -7,7 +7,7 @@
 | Item | Details |
 |------|---------|
 | **Title** | Optimisation of Flow Rate Algorithms for Ultrasonic Flow Meters in Different Flow Regimes |
-| **Authors** | Wang Yue, Liu Xiaodong*, Wu Guifeng |
+| **Authors** | Yue Wang, Xiaodong Liu*, Guifeng Wu |
 | **Affiliation** | School of Electrical and Energy & Power Engineering, Yangzhou University, Yangzhou 225000, China |
 | **Journal** | Journal of Electronic Measurement and Instrumentation (电子测量与仪器学报) |
 | **Volume** | 39, No. 12 |
@@ -19,7 +19,7 @@
 
 ## 🙏 Special Acknowledgments
 
-I extend my heartfelt gratitude to **Professor Du Guangsheng** and his research team at **Shandong University** .
+I extend my heartfelt gratitude to **Professor Guangsheng Du** and his research team at **Shandong University** .
 
 - **Prompt and thoughtful responses** to my data inquiry emails
 - **Generous sharing of PIV data** that was critical to this research
@@ -27,7 +27,7 @@ I extend my heartfelt gratitude to **Professor Du Guangsheng** and his research 
 
 ### Personal Reflections
 
-Professor Du Guangsheng's willingness to recall experimental data from his doctoral dissertation years ago and generously share it with a young student like me is truly touching and admirable. This act of mentorship exemplifies the best traditions of academic collaboration and has been instrumental in the successful publication of this paper.
+Professor Du's willingness to recall experimental data from his doctoral dissertation years ago and generously share it with a young student like me is truly touching and admirable. This act of mentorship exemplifies the best traditions of academic collaboration and has been instrumental in the successful publication of this paper.
 
 Such generosity from senior scholars not only advances scientific knowledge but also inspires the next generation of researchers to pay it forward when they themselves become established academics.
 
