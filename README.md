@@ -21,7 +21,7 @@
 
 I extend my heartfelt gratitude to **Professor Du Guangsheng** and his research team at **Shandong University** .
 
-- **Prompt and thoughtful responses** to our data inquiry emails
+- **Prompt and thoughtful responses** to my data inquiry emails
 - **Generous sharing of PIV data** that was critical to this research
 - **Willingness to help young researchers** despite the passage of time
 
