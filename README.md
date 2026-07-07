@@ -27,7 +27,7 @@ I extend my heartfelt gratitude to **Professor Guangsheng Du（杜广生）** an
 
 ### Personal Reflections
 
-Professor Du's willingness to recall experimental data from The PhD students he supervises years ago and generously share it with a young student like me is truly touching and admirable. This act of mentorship exemplifies the best traditions of academic collaboration and has been instrumental in the successful publication of this paper.
+Professor Du's willingness to recall experimental data from the PhD students he supervises years ago and generously share it with a young student like me is truly touching and admirable. This act of mentorship exemplifies the best traditions of academic collaboration and has been instrumental in the successful publication of this paper.
 
 Such generosity from senior scholars not only advances scientific knowledge but also inspires the next generation of researchers to pay it forward when they themselves become established academics.
 
